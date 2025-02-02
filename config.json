@@ -1,22 +1,15 @@
 {
     "token": "",
     "language": "en",
-    "prefix": "!",
-    "mongodbUri": "mongodb+srv://shiva:shiva@musicbotyt.ouljywv.mongodb.net/?retryWrites=true&w=majority",
-    "geniusToken": "0CHr9jtPjR7EKraXUVv6__8ELmEwFeUwt5vYAhk-is_fGOq-10-epdMzESkMPUnf",
+    "prefix": "^",
+    "mongodbUri": "mongodb+srv://arjun:ajju@cluster0.v3dmc2z.mongodb.net/?retryWrites=true&w=majority",
+    "geniusToken": "Dza2bzs2Z_9apiZEcX65MBV0gonNsTNv3CwWAoOkChvA5ayhpnnm5ObhpuADMpOL",
     "excessCommands": {
         "utility": true,
         "other": true,
-        "hentai": true,
-        "lavalink": true,
-        "troll": true,
-        "levelling" : true,
-        "economy" : true,
-        "application" : true,
-        "birthday" : true,
-        "gaming" : true,
-        "customcommands" : true,
-        "report" : true
+        "hentai": false,
+        "lavalink": false,
+        "troll": true
     },
     "categories": {
         "anime": true,
@@ -27,15 +20,14 @@
         "distube music": true,
         "setups": true
     },
-     "lavalink": {
+    "lavalink": {
         "lavalink": {
-      "password": "prplmoe.me",
-      "host": "lavav4.prplmoe.me",
-      "port": 1118,
-      "secure": false
-
+            "host": "lavalink.razorbot.buzz",
+            "port": 6969,
+            "password": "dsc.gg/razorsupport",
+            "secure": false
         }
-    }, 
-    "spotifyClientId": "f71a3da30e254962965ca2a89d6f74b9",
-    "spotifyClientSecret": "199a619d22dd4e55a4a2c1a7a3d70e63"
+    },
+    "spotifyClientId": "6c31645ffb004ab8b44d06f7b96d1b66",
+    "spotifyClientSecret": "3618fdc0b4824cfd91a8d425dac32987"
 }
